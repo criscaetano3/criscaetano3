@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Crislaine Caetano
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=F700FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Frontend;Estudante+de+Engenharia+de+Software;React+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=F700FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Frontend;Estudante+de+Engenharia+de+Software+e+curso+Tecnico+de+desenvolvimento+de Sistema;React+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias+🚀" />
 
 ---
 
@@ -52,21 +52,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=criscaetano3&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criscaetano3&layout=compact&theme=radical)
-
----
-
 ## 🌎 Contato
 
-<a href="SEU-LINK-LINKEDIN">
+<a href="https://www.linkedin.com/in/crislaine-caetano-968a20350">
 <img src="https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:crislainecaetano51@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
