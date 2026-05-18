@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="img/img-guit.png"/>
+<img width="100%" src="img-guitHub.png"/>
 
 
-&lt; Olá, eu sou Crislaine! 👋 /&gt;
+ # &lt; Olá, eu sou Crislaine! 👋 /&gt;
 
 
 ### 💜 Desenvolvedora Frontend
