@@ -1,18 +1,75 @@
-# 👋 Olá, eu sou Crislaine
+# 👋 Olá, eu sou Crislaine Caetano
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=F700FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Frontend;Estudante+de+Engenharia+de+Software;React+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias+🚀" />
+
+---
+
+## 💜 Sobre mim
 
 🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedora Frontend  
-🚀 Estudando React, SQL e QA  
+💻 Desenvolvedora Frontend em evolução  
+🚀 Estudando React, Next.js, SQL e QA  
+📚 Técnica em Desenvolvimento de Sistemas  
+✨ Criando projetos modernos e responsivos
+
+---
 
 ## 🚀 Tecnologias
-- HTML
-- CSS
-- JavaScript
-- React
-- SQL
-- GitHub
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="HTML" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img align="center" alt="JS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="React" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+<img align="center" alt="Git" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+<img align="center" alt="Github" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+<img align="center" alt="SQL" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+</div>
+
+---
 
 ## 📌 Projetos
-- Site para ONG
-- Banco de Dados SQL
-- Projetos Frontend
+
+🌐 Site para ONG  
+📊 Banco de Dados SQL  
+🎨 Projetos Frontend Responsivos  
+⚡ Landing Pages Modernas  
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=criscaetano3&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criscaetano3&layout=compact&theme=radical)
+
+---
+
+## 🌎 Contato
+
+<a href="SEU-LINK-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
+
+✨ “Transformando ideias em interfaces modernas.”
