@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Crislaine Caetano
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=F700FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Frontend;Estudante+de+Engenharia+de+Software+e+curso+Técnico+de+Desenvolvimento+de+Sistema;React+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=F700FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Frontend;Estudante+de+Engenharia+de+Software;E+curso+Técnico+de+Desenvolvimento+de+Sistema;React+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+novas+tecnologias+🚀" />
 
 ---
 
 ## 💜 Sobre mim
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software e curso Técnico de Desenvolvimento de Sistema  
 💻 Desenvolvedora Frontend em evolução  
 🚀 Estudando React, Next.js, SQL e QA  
 📚 Técnica em Desenvolvimento de Sistemas  
