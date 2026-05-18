@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <img width="100%" src="img/img-guit.png">
+=======
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 <div align="center">
 
 <img width="100%" src="img-guit.png"/>
 
+<<<<<<< HEAD
 <h1 align="center" style="color: #ff61f6;">
 &lt; Olá, eu sou Crislaine! 👋 /&gt;
 </h1>
@@ -11,6 +15,13 @@
 
 ### 🎓 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
 
+=======
+# < Olá, eu sou Crislaine! 👋 />
+
+### 💜 Desenvolvedora Frontend
+### 🎓 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas
+
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=React+%7C+JavaScript+%7C+SQL;Apaixonada+por+tecnologia+💜;Sempre+aprendendo+novas+tecnologias+🚀"/>
 
 </div>
@@ -22,7 +33,11 @@
 
 <td width="50%">
 
+<<<<<<< HEAD
 <h1 style="color:#ff61f6;">✨ Sobre mim</h1>
+=======
+## ✨ Sobre mim
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 Sou apaixonada por tecnologia e desenvolvimento. 💜
 
@@ -31,18 +46,31 @@ Sou apaixonada por tecnologia e desenvolvimento. 💜
 🚀 Focada em Frontend  
 🌸 Criando interfaces modernas e responsivas e experiências incríveis 🚀
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 </td>
 
 <td width="50%">
 
 ```javascript
 const sobreMim = {
+<<<<<<< HEAD
   nome: "Crislaine Caetano",
   foco: "Desenvolvimento Frontend",
   estudando: ["React", "SQL", "JavaScript"],
   objetivo: "Trabalhar na área tech",
   paixao: "Criar interfaces modernas 💜",
 };
+=======
+ nome: "Crislaine Caetano",
+ foco: "Desenvolvimento Frontend",
+ estudando: ["React", "SQL", "JavaScript"],
+ objetivo: "Trabalhar na área tech",
+ paixao: "Criar interfaces modernas 💜"
+}
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 console.log(sobreMim);
 ```
@@ -54,7 +82,11 @@ console.log(sobreMim);
 
 ---
 
+<<<<<<< HEAD
 <h1 style="color: #ff61f6;">🚀 Tecnologias</h1>
+=======
+# 🚀 Tecnologias
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 <div align="center">
 
@@ -113,7 +145,11 @@ VS Code
 
 ---
 
+<<<<<<< HEAD
 <h1 style="color:#ff61f6;">💻 Projetos em destaque</h1>
+=======
+# 💻 Projetos em destaque
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 <div align="center">
 
@@ -183,7 +219,11 @@ Landing page responsiva.
 
 ---
 
+<<<<<<< HEAD
 <h1 style="color:#ff61f6;">📊 Estatísticas</h1>
+=======
+# 📊 Estatísticas
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 <div align="center">
 
@@ -194,7 +234,11 @@ Landing page responsiva.
 
 ## 📈 GitHub Stats
 
+<<<<<<< HEAD
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=criscaetano3&show_icons=true&theme=omni"/>
+=======
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=criscaetano3&show_icons=true&theme=radical"/>
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 </td>
 
@@ -202,7 +246,11 @@ Landing page responsiva.
 
 ## 🔥 GitHub Streak
 
+<<<<<<< HEAD
 <img height="180em" src="https://streak-stats.demolab.com?user=criscaetano3&theme=omni"/>
+=======
+<img height="180em" src="https://streak-stats.demolab.com?user=criscaetano3&theme=radical"/>
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 </td>
 
@@ -210,7 +258,11 @@ Landing page responsiva.
 
 ## 💻 Linguagens Mais Usadas
 
+<<<<<<< HEAD
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=criscaetano3&layout=compact&theme=omni"/>
+=======
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=criscaetano3&layout=compact&theme=radical"/>
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 </td>
 
@@ -220,8 +272,12 @@ Landing page responsiva.
 </div>
 
 ---
+<<<<<<< HEAD
 
 <h1 style="color:#ff61f6;">🐍 Contribuições</h1>
+=======
+# 🐍 Contribuições
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 <div align="center">
 
@@ -230,7 +286,11 @@ Landing page responsiva.
 
 <td align="center" width="60%">
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+=======
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 </td>
 
@@ -238,11 +298,20 @@ Landing page responsiva.
 
 ## 👀 Visitantes
 
+<<<<<<< HEAD
 <img src="https://count.getloli.com/get/@criscaetano3?theme=asoul"/>
 
 <br>
 
 <h1 style="color:#ff61f6;">👀 Visitantes</h1>
+=======
+<img src="https://count.getloli.com/get/@criscaetano3?theme=moebooru"/>
+
+
+<br>
+
+### 💜 Visitas ao perfil
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 </td>
 
 </tr>
@@ -252,7 +321,11 @@ Landing page responsiva.
 
 ---
 
+<<<<<<< HEAD
 <h1 style="color:#ff61f6;">🌸 Redes Sociais</h1>
+=======
+# 🌸 Redes Sociais
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 <div align="center">
 
@@ -270,10 +343,18 @@ Landing page responsiva.
 
 </div>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 ---
 
 <div align="center">
 
+<<<<<<< HEAD
 ### ✨ "Transformando ideias em interfaces incríveis." ✨
+=======
+### ✨ "Transformando ideias em interfaces incríveis." 💜
+>>>>>>> 45e0aa94d8056488bc5a8b6edcee08f56af4bbed
 
 </div>
