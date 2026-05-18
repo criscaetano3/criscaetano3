@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Crislaine
 
-<!--
-**criscaetano3/criscaetano3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedora Frontend  
+🚀 Estudando React, SQL e QA  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- React
+- SQL
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos
+- Site para ONG
+- Banco de Dados SQL
+- Projetos Frontend
